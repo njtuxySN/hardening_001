@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="hi_table" language="en" table="x_test_hardening_0_hi_table">
+    <sys_documentation element="" label="realHi" language="en" table="x_test_hardening_0_realhi">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>hi_table</label>
+            <label>realHi</label>
             <language>en</language>
-            <name>x_test_hardening_0_hi_table</name>
-            <plural>hi_tables</plural>
+            <name>x_test_hardening_0_realhi</name>
+            <plural>realHis</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-18 23:54:53</sys_created_on>
+            <sys_created_on>2016-08-18 23:58:56</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>682d454e55512200964f234e3d19616e</sys_id>
+            <sys_id>041ecd8e40912200964f92fdf0614e94</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>hi_table</sys_name>
+            <sys_name>realHi</sys_name>
             <sys_package display_value="test_hardening_001" source="x_test_hardening_0">a4b3bc063c912200964f13b7d9d5c8df</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="test_hardening_001">a4b3bc063c912200964f13b7d9d5c8df</sys_scope>
-            <sys_update_name>sys_documentation_x_test_hardening_0_hi_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_test_hardening_0_realhi__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-18 23:56:44</sys_updated_on>
+            <sys_updated_on>2016-08-18 23:58:56</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

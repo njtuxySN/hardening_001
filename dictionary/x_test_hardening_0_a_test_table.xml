@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="a_test_table" max_length="40" name="x_test_hardening_0_a_test_table" type="collection">
+        <element label="Test row" max_length="100" name="test_row" type="string"/>
+    </element>
+</database>

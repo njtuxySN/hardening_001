@@ -3,7 +3,6 @@
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="a_test_table">d49bfc0a38d12200964fe049c906dea9</application>
-        <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
@@ -17,11 +16,10 @@
         <name>x_test_hardening_0_a_test_table</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
+        <paas_active>false</paas_active>
         <query/>
         <report/>
         <roles>x_test_hardening_0.a_test_table_user</roles>
-        <survey/>
-        <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 22:38:08</sys_created_on>

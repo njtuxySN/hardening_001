@@ -13,15 +13,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 22:38:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>bc9b704a38d12200964fe049c906ded1</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a8cbf0863c912200964f13b7d9d5c87a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_test_hardening_0_a_test_table</sys_name>
         <sys_package display_value="test_hardening_001" source="x_test_hardening_0">a4b3bc063c912200964f13b7d9d5c8df</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_hardening_001">a4b3bc063c912200964f13b7d9d5c8df</sys_scope>
-        <sys_update_name>ua_table_licensing_config_bc9b704a38d12200964fe049c906ded1</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_a8cbf0863c912200964f13b7d9d5c87a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-08-18 22:38:10</sys_updated_on>
     </ua_table_licensing_config>

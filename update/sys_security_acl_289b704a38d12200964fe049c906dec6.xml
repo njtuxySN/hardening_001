@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 22:38:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>289b704a38d12200964fe049c906dec6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_test_hardening_0_a_test_table</sys_name>

@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="b_test_table">292c34863c912200964f13b7d9d5c8c7</application>
+        <application display_value="new123">dbc0158e55512200964f234e3d196149</application>
         <content_page/>
         <device_type/>
         <filter/>
@@ -11,34 +11,34 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>b_test_tables</mobile_title>
+        <mobile_title/>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_test_hardening_0_b_test_table</name>
+        <name>x_test_hardening_0_new123</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
-        <paas_active>false</paas_active>
+        <paas_active>true</paas_active>
         <query/>
         <report/>
-        <roles>x_test_hardening_0.b_test_table_user</roles>
+        <roles>x_test_hardening_0.new123_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-18 22:40:39</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2016-08-19 00:10:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e12c34863c912200964f13b7d9d5c8c8</sys_id>
+        <sys_id>17c0158e55512200964f234e3d19614a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>b_test_tables</sys_name>
+        <sys_name>new123s</sys_name>
         <sys_overrides/>
         <sys_package display_value="test_hardening_001" source="x_test_hardening_0">a4b3bc063c912200964f13b7d9d5c8df</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_hardening_001">a4b3bc063c912200964f13b7d9d5c8df</sys_scope>
-        <sys_update_name>sys_app_module_e12c34863c912200964f13b7d9d5c8c8</sys_update_name>
+        <sys_update_name>sys_app_module_17c0158e55512200964f234e3d19614a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-08-18 22:40:39</sys_updated_on>
+        <sys_updated_on>2016-08-19 00:10:54</sys_updated_on>
         <timeline_page/>
-        <title>b_test_tables</title>
+        <title>new123s</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

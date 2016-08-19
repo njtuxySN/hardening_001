@@ -2,7 +2,6 @@
 <record_update table="sys_user_role">
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
-        <can_delegate>true</can_delegate>
         <description/>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
@@ -12,7 +11,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 23:58:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>730e4d8e40912200964f92fdf0614efb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_test_hardening_0.realhi_user</sys_name>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="new123" max_length="40" name="x_test_hardening_0_new123" type="collection"/>
+</database>

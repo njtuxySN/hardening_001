@@ -3,20 +3,20 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-18 23:58:55</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>f70ecd8e40912200964f92fdf0614e8d</sys_id>
+        <sys_created_on>2016-08-19 00:10:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d7c0158e55512200964f234e3d196150</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_test_hardening_0_realhi.x_test_hardening_0.realhi_user</sys_name>
+        <sys_name>x_test_hardening_0_new123.x_test_hardening_0.new123_user</sys_name>
         <sys_package display_value="test_hardening_001" source="x_test_hardening_0">a4b3bc063c912200964f13b7d9d5c8df</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_hardening_001">a4b3bc063c912200964f13b7d9d5c8df</sys_scope>
-        <sys_security_acl display_value="x_test_hardening_0_realhi">fb0ecd8e40912200964f92fdf0614e8c</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_f70ecd8e40912200964f92fdf0614e8d</sys_update_name>
+        <sys_security_acl display_value="x_test_hardening_0_new123">1fc0158e55512200964f234e3d19614f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d7c0158e55512200964f234e3d196150</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-08-18 23:58:55</sys_updated_on>
-        <sys_user_role display_value="x_test_hardening_0.realhi_user" name="x_test_hardening_0.realhi_user">730e4d8e40912200964f92fdf0614efb</sys_user_role>
+        <sys_updated_on>2016-08-19 00:10:54</sys_updated_on>
+        <sys_user_role display_value="x_test_hardening_0.new123_user" name="x_test_hardening_0.new123_user">9fc0918e55512200964f234e3d1961eb</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

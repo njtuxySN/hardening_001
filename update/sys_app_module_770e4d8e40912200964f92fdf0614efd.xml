@@ -3,6 +3,7 @@
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="realHi">3f0e4d8e40912200964f92fdf0614efc</application>
+        <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
@@ -16,10 +17,11 @@
         <name>x_test_hardening_0_realhi</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
-        <paas_active>false</paas_active>
         <query/>
         <report/>
         <roles>x_test_hardening_0.realhi_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 23:58:55</sys_created_on>

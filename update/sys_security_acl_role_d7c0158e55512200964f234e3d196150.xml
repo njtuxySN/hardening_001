@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-19 00:10:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d7c0158e55512200964f234e3d196150</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_test_hardening_0_new123.x_test_hardening_0.new123_user</sys_name>

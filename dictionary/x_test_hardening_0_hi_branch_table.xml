@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="hi_branch_table" max_length="40" name="x_test_hardening_0_hi_branch_table" type="collection"/>
+</database>

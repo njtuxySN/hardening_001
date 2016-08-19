@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-18 22:40:39</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ef01958e55512200964f234e3d19612a</sys_id>
+        <sys_id>309159ce40912200964f92fdf0614ec9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>B column</sys_name>
         <sys_package display_value="test_hardening_001" source="x_test_hardening_0">a4b3bc063c912200964f13b7d9d5c8df</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="test_hardening_001">a4b3bc063c912200964f13b7d9d5c8df</sys_scope>
         <sys_update_name>sys_dictionary_x_test_hardening_0_b_test_table_b_column</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-08-19 00:12:01</sys_updated_on>
+        <sys_updated_on>2016-08-19 00:14:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
